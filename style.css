@@ -1,0 +1,16 @@
+.navbar {
+  margin-top: 10px; /* Adjust the top margin as needed */
+}
+
+.navbar ul {
+  padding-left: 20px; /* Adjust the left padding as needed */
+}
+
+.navbar li {
+  display: inline-block;
+  margin-right: 10px; /* Adjust the right margin between list items as needed */
+}
+
+.navbar a {
+  text-decoration: none;
+}
